@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Baseline architecture - ok"
+    name="1. Baseline architecture"
     id="0429930c-0db3-438f-aecc-fce488c39fcc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
