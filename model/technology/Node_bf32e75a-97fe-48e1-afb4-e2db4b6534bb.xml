@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ticketing server"
-    id="bf32e75a-97fe-48e1-afb4-e2db4b6534bb"/>
+    id="bf32e75a-97fe-48e1-afb4-e2db4b6534bb"
+    documentation="In this versione of the architecure we move the application which manages the ticketing system on a separate server;&#xD;&#xA;This is done not to increase the overhead of the server which manages the main application, since the former is used not only by the customers, but also by the departements inside the organization."/>
