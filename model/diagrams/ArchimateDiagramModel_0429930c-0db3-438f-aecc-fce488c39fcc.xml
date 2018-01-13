@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Baseline architecture"
+    name="1a. Baseline architecture"
     id="0429930c-0db3-438f-aecc-fce488c39fcc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -2178,15 +2178,15 @@
           source="42234ff8-9a4c-4c45-b224-85643ddb7659"
           target="7b4b6296-9b97-4e62-9912-1f72b4bc591c">
         <bendpoints
-            startX="2"
-            startY="-106"
-            endX="211"
-            endY="93"/>
+            startX="-10"
+            startY="-94"
+            endX="199"
+            endY="105"/>
         <bendpoints
             startX="-166"
-            startY="-106"
-            endX="42"
-            endY="99"/>
+            startY="-94"
+            endX="43"
+            endY="105"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_f4369562-4633-4279-b1be-172943f26e81.xml#f4369562-4633-4279-b1be-172943f26e81"/>
