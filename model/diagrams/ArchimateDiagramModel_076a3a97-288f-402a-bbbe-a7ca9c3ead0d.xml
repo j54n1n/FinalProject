@@ -4289,18 +4289,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6ba4d850-0c45-4ba5-8d7d-4fd58b012a35">
-    <bounds
-        x="-1452"
-        y="-36"
-        width="421"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_db2c9a52-9320-46e6-b580-2d6184f3b7de.xml#db2c9a52-9320-46e6-b580-2d6184f3b7de"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="f298c70b-049f-44c9-842a-b90fa89fe098"
       targetConnections="48ee89a8-586a-4410-acef-f96b9efe3bef 467254ab-64a9-45bf-a617-e37c0455b453 95c95617-39c4-43c7-8da8-4665c61454a8 8b146314-b02b-42a7-9837-8fa831250e65 f270a03b-4c21-4fe5-9ca4-13dc3210d79f 56e19cba-a533-40c8-aea0-798162082494">
     <bounds
