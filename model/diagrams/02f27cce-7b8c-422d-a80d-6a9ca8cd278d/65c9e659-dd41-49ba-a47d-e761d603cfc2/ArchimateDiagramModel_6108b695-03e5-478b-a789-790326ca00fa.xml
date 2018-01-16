@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="a. Businness layer"
+    id="6108b695-03e5-478b-a789-790326ca00fa">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="be0f024a-1dea-47d7-b672-f3df431925fb">
+    <bounds
+        x="138"
+        y="338"
+        width="175"
+        height="83"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_522e1de9-bc8f-4ef3-93b3-a32d7cca814c.xml#522e1de9-bc8f-4ef3-93b3-a32d7cca814c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
