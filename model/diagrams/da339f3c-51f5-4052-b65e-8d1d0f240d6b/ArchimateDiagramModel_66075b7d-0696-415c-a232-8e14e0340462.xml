@@ -1860,15 +1860,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="503e5d0d-5a89-4ca8-930e-ab28ea11073c"
-        source="0c30f718-484d-418b-aa51-16b61e355ee8"
-        target="a3dd0eee-8254-41ac-a6d7-57bcecb2b8de">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_efecacae-6066-4889-96cd-7fd5e8471371.xml#efecacae-6066-4889-96cd-7fd5e8471371"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="5f1c1355-d82d-45d5-8e69-a4032c7f5783"
         source="0c30f718-484d-418b-aa51-16b61e355ee8"
         target="21a92b75-2935-495d-8140-c68bc89fa01c">
@@ -1944,6 +1935,15 @@
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_751b3f4c-94df-4e3e-9c3d-7643ecbe2b11.xml#751b3f4c-94df-4e3e-9c3d-7643ecbe2b11"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="503e5d0d-5a89-4ca8-930e-ab28ea11073c"
+          source="ec2a70fd-e99b-414b-9bce-dff6b9f74ced"
+          target="a3dd0eee-8254-41ac-a6d7-57bcecb2b8de">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_efecacae-6066-4889-96cd-7fd5e8471371.xml#efecacae-6066-4889-96cd-7fd5e8471371"/>
       </sourceConnections>
       <bounds
           x="324"
