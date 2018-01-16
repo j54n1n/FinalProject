@@ -1,4 +1,41 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="c. technology layer"
-    id="7ffd7990-267e-4f65-85d1-9e7fa3743289"/>
+    id="7ffd7990-267e-4f65-85d1-9e7fa3743289">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="80f2cafe-e9f4-4e15-9c18-1f212e801125">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5395ebc1-d03a-453e-90db-3b7843f1d876"
+        source="80f2cafe-e9f4-4e15-9c18-1f212e801125"
+        target="721ad288-9a3f-4690-94b7-46a932dbdf20">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_c0dd46de-215a-43c9-8229-b1704982dcc2.xml#c0dd46de-215a-43c9-8229-b1704982dcc2"/>
+    </sourceConnections>
+    <bounds
+        x="454"
+        y="370"
+        width="164"
+        height="96"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_071911c1-f2f8-4c07-8277-fd995f98eac5.xml#071911c1-f2f8-4c07-8277-fd995f98eac5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="721ad288-9a3f-4690-94b7-46a932dbdf20"
+      targetConnections="5395ebc1-d03a-453e-90db-3b7843f1d876"
+      fillColor="#00ff00">
+    <bounds
+        x="828"
+        y="372"
+        width="157"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_5615a7b5-141f-4fb6-a1af-a053d9e6c2c0.xml#5615a7b5-141f-4fb6-a1af-a053d9e6c2c0"/>
+  </children>
+</archimate:ArchimateDiagramModel>

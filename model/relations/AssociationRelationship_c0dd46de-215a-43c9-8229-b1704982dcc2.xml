@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Added"
+    id="c0dd46de-215a-43c9-8229-b1704982dcc2"
+    documentation="New ticket software application deplyed on the company's&#xD;&#xA; server">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_071911c1-f2f8-4c07-8277-fd995f98eac5.xml#071911c1-f2f8-4c07-8277-fd995f98eac5"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_5615a7b5-141f-4fb6-a1af-a053d9e6c2c0.xml#5615a7b5-141f-4fb6-a1af-a053d9e6c2c0"/>
+</archimate:AssociationRelationship>
