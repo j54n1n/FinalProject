@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ticket Software (copy)"
+    id="e196c908-011b-4270-8921-d934b56943ed"
+    documentation="In this versione of the architecure we move the application which manages the ticketing system on a separate server;&#xD;&#xA;This is done not to increase the overhead of the server which manages the main application, since the former is used not only by the customers, but also by the departements inside the organization."/>
