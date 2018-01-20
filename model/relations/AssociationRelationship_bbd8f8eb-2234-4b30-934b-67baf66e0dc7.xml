@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt; USB PORT >>"
+    id="bbd8f8eb-2234-4b30-934b-67baf66e0dc7">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_eeb6b6d3-0ca6-4dd2-bde6-582732e20387.xml#eeb6b6d3-0ca6-4dd2-bde6-582732e20387"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_7971fda1-656f-463a-a3aa-072c3af52958.xml#7971fda1-656f-463a-a3aa-072c3af52958"/>
+</archimate:AssociationRelationship>

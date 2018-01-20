@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&lt;&lt; ECU CONNECTOR >>"
+    id="d2eb0752-1a31-477a-a652-0dbbdcff887a">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_7971fda1-656f-463a-a3aa-072c3af52958.xml#7971fda1-656f-463a-a3aa-072c3af52958"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_c7c54b71-0506-4ec9-a628-2d9d986d1338.xml#c7c54b71-0506-4ec9-a628-2d9d986d1338"/>
+</archimate:AssociationRelationship>
