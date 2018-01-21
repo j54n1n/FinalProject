@@ -1,11 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="e09242af-9434-4e8a-b871-28acee136f5a">
+    name="&lt;&lt; USB OVER ETHERNET >>"
+    id="58944d7d-bc55-45f3-8c12-9af4d3eff842">
   <source
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_7f989acd-66dd-40d2-87b5-d847543ba35e.xml#7f989acd-66dd-40d2-87b5-d847543ba35e"/>
   <target
-      xsi:type="archimate:Node"
-      href="Node_278cc2fa-9d12-4ce6-8b7d-f96c9183e66b.xml#278cc2fa-9d12-4ce6-8b7d-f96c9183e66b"/>
+      xsi:type="archimate:Device"
+      href="Device_ebd16200-b778-417e-8a16-e27d9683f9b5.xml#ebd16200-b778-417e-8a16-e27d9683f9b5"/>
 </archimate:AssociationRelationship>
