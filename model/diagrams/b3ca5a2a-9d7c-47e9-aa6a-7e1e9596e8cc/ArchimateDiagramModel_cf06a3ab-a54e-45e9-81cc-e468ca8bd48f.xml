@@ -3785,7 +3785,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="25e0d2d9-2717-4832-b8c4-2f66d169de39"
-      targetConnections="e088b42f-591e-41b0-9d6f-2a3bf7033533 c00800ec-51bf-4c9c-9f36-b6731f3c06aa d24d3405-61d5-4096-8396-825bf77cee92">
+      targetConnections="e088b42f-591e-41b0-9d6f-2a3bf7033533 c00800ec-51bf-4c9c-9f36-b6731f3c06aa b854149d-f16b-47b5-b26d-0c3df835262c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="489b2cec-e911-4a96-95c9-729ec543cc9f"
@@ -5084,25 +5084,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_c44923c2-c6d5-4725-9f7f-3227da5b8e61.xml#c44923c2-c6d5-4725-9f7f-3227da5b8e61"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d24d3405-61d5-4096-8396-825bf77cee92"
-        source="5cbe00e7-d358-4b24-a989-52aaf25dddf4"
-        target="25e0d2d9-2717-4832-b8c4-2f66d169de39">
-      <bendpoints
-          startX="144"
-          startY="239"
-          endX="-482"
-          endY="26"/>
-      <bendpoints
-          startX="300"
-          startY="239"
-          endX="-326"
-          endY="26"/>
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_774af88d-8c0c-4222-8708-6799a95f028d.xml#774af88d-8c0c-4222-8708-6799a95f028d"/>
-    </sourceConnections>
     <bounds
         x="876"
         y="1331"
@@ -5164,6 +5145,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fa7d5df4-6f44-42fd-a414-365c5e65636f"
       targetConnections="93f0e53c-17e2-4724-b613-d6123b8bd800">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b854149d-f16b-47b5-b26d-0c3df835262c"
+        source="fa7d5df4-6f44-42fd-a414-365c5e65636f"
+        target="25e0d2d9-2717-4832-b8c4-2f66d169de39">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_d11955c1-6a68-4a57-965b-69e4ff02724e.xml#d11955c1-6a68-4a57-965b-69e4ff02724e"/>
+    </sourceConnections>
     <bounds
         x="1032"
         y="1516"
